@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+TARGET_EXCLUDES_AUDIOFX := true
+
 # Dolby path
 DOLBY_PATH := hardware/dolby
 
